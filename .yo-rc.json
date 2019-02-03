@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "App",
+    "packageName": "com.ft",
+    "packageFolder": "com/ft",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "MzM1YmQ5ODQ5YzM3YTY2NGMwNGI5MGViZWU0MzgyOTlhNTMyZjI2ODczZTFmOTRjYzIzMDdhMWI2M2E5Y2I1ZGE0MDdjYmQ1YTNhY2JhYzEzODcyZmMzYWUwN2U0ZmVhMzBmZDllOTI1MzgzOGVmNGNmMDNhOTYzMDExYTYyMTc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "istt",
+  "repository-name": "jh-app"
+}
